@@ -1,4 +1,17 @@
 html, body {
-  height: 100%;
-  width: 100%;
+  margin: auto;
+  width: 80%;
+  padding: 10px;
+	font-size: 19px;
+	color: #5EBEC4;
+	background-color: #FDF5DF;
+}
+
+h4{
+	padding-left: 30px;
+	color:#F92C85;
+}
+
+h1{
+	padding-left: 35px;
 }
