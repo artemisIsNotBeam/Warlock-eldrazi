@@ -2,16 +2,21 @@ html, body {
   margin: auto;
   width: 80%;
   padding: 10px;
-	font-size: 19px;
-	color: #5EBEC4;
-	background-color: #FDF5DF;
+	font-size: 18px;
+	color: #DEB992;
+	background-color: #051622;
 }
 
 h4{
 	padding-left: 30px;
-	color:#F92C85;
+	color:#1BA098;
 }
 
 h1{
 	padding-left: 35px;
+	color: #1BA098;
+}
+
+th{
+	color: #1BA098;
 }
